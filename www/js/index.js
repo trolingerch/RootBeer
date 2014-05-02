@@ -5,7 +5,7 @@ var mainIngredients = [
 var desserts = [
 	{
 		"name": "A&W Root Beer",
-		"image": "https://cdn3.volusion.com/xfore.gofgn/v/vspfiles/photos/R-AAW-1.jpg?1385392682", 
+		"image": "../img/R-AAW-1.jpg", 
 		"ingredients": ["Creamy", "Rich", "Smooth"],
 		"likes": 0,
 		"dislikes": 0
